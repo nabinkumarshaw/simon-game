@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width:200px;
+    border:2px solid black;
+    border-radius: 20%;
+}
+/* .btn-container{
+    display:flex;
+    justify-content: center;
+} */
+.line-one{
+    display:flex;
+    justify-content: center;
+}
+.line-two{
+    display:flex;
+    justify-content: center;
+}
+.btn{
+    margin: 20px;
+}
+.first{
+    background-color:#f99b45 ;
+}
+.second{
+    background-color:#d95890 ;
+}
+.third{
+    background-color:#819ff9 ;
+}
+.fourth{
+    background-color:#63aac0 ;
+}
+
+.flash{
+    background-color: white;
+}
